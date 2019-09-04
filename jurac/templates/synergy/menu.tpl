@@ -25,7 +25,7 @@
                 <li><a href="/rector.html"><span>Ректорат</span></a></li>
                 <!--Кафедры-->
                 <li class="uWithSubmenu"><a href="/subfaculty.html"><span>Кафедры</span></a>
-                <!--<ul>
+                <ul>
                     <li><a href="/subfaculty/263-tigip.html"><span>Кафедра теории и истории государства и права</span></a></li>                    
                     <li><a href="/subfaculty/264-up.html"><span>Кафедра уголовного права</span></a></li>
                     <li><a href="/subfaculty/265-gp.html"><span>Кафедра гражданского права</span></a></li>
@@ -33,14 +33,14 @@
                     <li><a href="/subfaculty/267-gpp.html"><span>Кафедра гражданского процесса</span></a></li>
                     <li><a href="/subfaculty/268-sgd.html"><span>Кафедра социально-гуманитарных дисциплин</span></a></li>
                     <li><a href="/subfaculty/269-upk-k.html"><span>Кафедра уголовного процесса и криминалистики</span></a></li>
-               </ul>-->
+               </ul>
                 </li>
                <li><a href="/structure-council.html"><span>Учёный совет</span></a></li>
                <li class="uWithSubmenu"><a href="/faculty.html"><span>Факультет юриспруденции</span></a>
-               	<!--<ul>
+               	<ul>
                     <li><a href="/faculty-400301.html"><span>Бакалавриат</span></a></li>
                     <li><a href="/faculty-400401.html"><span>Магистратура</span></a></li>    
-				</ul>-->
+				</ul>
                </li>
                <li><a href="/otdely-i-otdeleniya.html"><span>Отделы и отделения</span></a></li>
                 <li><a href="/priemnaya-komissiya.html"><span>Приёмная комиссия</span></a></li>
