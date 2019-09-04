@@ -4,7 +4,6 @@
 			<div class="slide-content">
 			   <a href="/sveden" class="slide-title">Информация об академии</a>
                 <p class="slide-text">Сведения об академии</p>
-                <a href="news/316-torzhestvennoe-sobranie-posvjaschennoe-dnju-znanij.html" class="more-1">Важная информация для первокурсников!<span>></span></a>
 			    <!--<a href="/o-nas.html" class="more-1">Посмотреть перечень документов<span>></span></a>-->
 			</div>
 		</div>
