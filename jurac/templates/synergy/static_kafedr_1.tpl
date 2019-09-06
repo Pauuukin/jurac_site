@@ -24,7 +24,7 @@
 				<tbody>
                     <tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/subfaculty" class="catName">Кафедры </a> 
+						<a href="/subfaculty.html" class="catName">Кафедры </a> 
 					</td>
 				</tr>
 				<tr>
