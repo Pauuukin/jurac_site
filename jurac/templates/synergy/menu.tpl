@@ -65,7 +65,7 @@
                 <ul>
 				    <li><a href="/studencheskiy-sovet.html"><span>Студенческий совет</span></a></li>
                     <li><a href="/vospetdet.html"><span>Воспитательная деятельность</span></a></li>
-                    <li><a href="/ofo-table/253-400301400401.html"><span>Расписание</span></a></li>
+                    <li><a href="/ofo-table/320-raspisanie.html"><span>Расписание</span></a></li>
                     <li><a href="/scince-result-stud/247-10215-231117.html"><span>Достижения</span></a></li>
                     <li><a href="/students-volunteer.html"><span>Клуб волонтеров</span></a></li>
                     <li><a href="http://student.jurac.ru/"><span>Moodle</span></a></li>
