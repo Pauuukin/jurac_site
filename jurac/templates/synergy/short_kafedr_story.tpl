@@ -40,7 +40,7 @@
 		</div>
        <div style="margin-bottom: 30px;margin-left: 34.564103%;float: left;width: 31.623932%;">
 			<div class="pricing-table">			    
-               <a href="/subfaculty/269-upk-k.html" target="_blank" rel = "noopener" title="КАФЕДРА УГОЛОВНОГО ПРОЦЕССА И КРИМИНАЛИСТИКИ"><img style="width: 99%;" src="https://jurac.ru/uploads/7.png" ></a>
+               <a href="/subfaculty/269-upk-k.html" target="_blank" rel = "noopener" title="КАФЕДРА УГОЛОВНОГО ПРОЦЕССА И КРИМИНАЛИСТИКИ"><img style="width: 99%;" src="https://jurac.ru/uploads/7(1).png" ></a>
 			</div>
 		</div>
 	</div>
