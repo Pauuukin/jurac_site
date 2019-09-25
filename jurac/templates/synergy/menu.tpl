@@ -68,7 +68,7 @@
                     <li><a href="/ofo-table/321-raspisanie-19-20.html"><span>Расписание</span></a></li>
                     <li><a href="/scince-result-stud/247-10215-231117.html"><span>Достижения</span></a></li>
                     <li><a href="/students-volunteer.html"><span>Клуб волонтеров</span></a></li>
-                    <li><a href="http://student.jurac.ru/"><span>Moodle</span></a></li>
+                    <li><a href="http://student.jurac.ru/"><span>Войти в Moodle</span></a></li>
                 </ul>
             </li>
             
