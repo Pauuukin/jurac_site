@@ -29,7 +29,7 @@ h3{
 <div class="login-title">Авторизация для администрации</div>
 <div class="login-form">
 <br>
-	 <h3>Для входа в <b>moodle</b><br> нажмите <a href="http://student.jurac.ru/">СЮДА</a></h3>
+	 <h3>Для входа в <b>moodle</b><br> нажмите <a href="http://student.jurac.ru/login/index.php">СЮДА</a></h3>
 	<form method="post">
 		<ul>
 			<li>
