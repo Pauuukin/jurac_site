@@ -15,10 +15,11 @@
                 <li><a href="/sveden/grants"><span>Стипендии и иные виды материальной поддержки</span></a></li>
                 <li><a href="/sveden/paid_edu"><span>Платные образовательные услуги</span></a></li>	
                 <li><a href="/sveden/budget" target="_blank"><span>Финансово-хозяйственная деятельность</span></a></li>		
-				<li><a href="/sveden/vacant"><span>Вакантные места для приёма (перевода)</span></a></li>														
+				<li><a href="/sveden/vacant"><span>Вакантные места для приёма (перевода)</span></a></li>
+                <li><a href="/sveden/objects"><span>Доступная среда</span></a></li>
+                <li><a href="/int_coop.html"><span>Международное сотрудничество</span></a></li>														
                </ul>
-            </li>
-                    
+            </li>   
 		<li class="uWithSubmenu">
             <a href="/structure-1.html" alt="Структура образовательной организации" title="Пункты меню"><span>Структура<br>Образовательной<br>Организации</span></a>
             <ul>
