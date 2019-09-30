@@ -60,17 +60,17 @@
     <div class="cnt clr" data-animated="fadeInUp">
 		<div class="col4">
 			<div class="pricing-table">			   		
-                <a href="http://it.jurac.ru/files/sved-1-0-1.pdf" target="_blank" rel = "noopener"><img src="{THEME}/images/1-1.jpg"></a>
+                <a href="http://jurac.ru/uploads/main/sved1.pdf" target="_blank" rel = "noopener"><img src="{THEME}/images/1-1-min.jpg"></a>
             </div>
 		</div>
 		<div class="col4">
 			<div class="pricing-table current">
-              <a href="http://it.jurac.ru/files/sved-1-0-1.pdf" target="_blank" rel = "noopener">  <img src="{THEME}/images/1-2.jpg"></a>
+              <a href="http://jurac.ru/uploads/main/sved2.pdf" target="_blank" rel = "noopener">  <img src="{THEME}/images/1-2-min.jpg"></a>
 			</div>
 		</div>
 		<div class="col4">
 			<div class="pricing-table">			    
-               <a href="http://it.jurac.ru/files/sved-1-0-1.pdf" target="_blank" rel = "noopener"><img src="{THEME}/images/1-3.jpg"></a>
+               <a href="http://jurac.ru/uploads/main/sved3.pdf" target="_blank" rel = "noopener"><img src="{THEME}/images/1-3-min.jpg"></a>
 			</div>
 		</div>
 	</div>
