@@ -23,7 +23,7 @@ table {
                 <a href="/subfaculty/265-gp.html" target="_blank" rel = "noopener" title="КАФЕДРА ГРАЖДАНСКОГО ПРАВА"><img src="https://jurac.ru/uploads/02.jpg"width="280" height="400"></a>
             </div></td>
         <td><div class="pricing-table current">
-              <a href="/subfaculty/267-gpp.html" target="_blank" rel = "noopener" title="КАФЕДРА ГРАЖДАНСКОГО ПРОЦЕССА">  <img src="https://jurac.ru/uploads/03.jpg"width="280" height="400" ></a>
+               <a href="/subfaculty/267-gpp.html" target="_blank" rel = "noopener" title="КАФЕДРА ГРАЖДАНСКОГО ПРОЦЕССА">  <img src="https://jurac.ru/uploads/03.jpg"width="280" height="400" ></a>
 			</div></td>
         <td><div class="pricing-table">			    
                <a href="/subfaculty/269-upk-k.html" target="_blank" rel = "noopener"  title="КАФЕДРА УГОЛОВНОГО ПРОЦЕССА И КРИМИНАЛИСТИКИ"><img src="https://jurac.ru/uploads/04.jpg"width="280" height="400"></a>
