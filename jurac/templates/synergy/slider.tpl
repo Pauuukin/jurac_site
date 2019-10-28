@@ -4,6 +4,7 @@
 			<div class="slide-content">
 			   <a href="/sveden" class="slide-title">Информация об академии</a>
                 <p class="slide-text">Сведения об академии</p>
+				 <a href="https://jurac.ru/ads/329-sobranie-studentov-pervogo-kursa-ochno-zaochnoj-formy-obuchenija.html" class="more-1">Информация о собрании для студентов первого курса очно-заочной формы обучения<span>></span></a>
 			    <!--<a href="/o-nas.html" class="more-1">Посмотреть перечень документов<span>></span></a>-->
 			</div>
 		</div>
