@@ -21,84 +21,30 @@
 
 	<div class="clr">
 		<div class="block">
-			<h5>Структура образовательной орагнизации</h5>
+			<h5>Электронная информационно-образовательная среда</h5>
 			<table border="0" cellspacing="1" cellpadding="0" width="100%" class="catsTable">
 				<tbody>
                     [not-static=rector]<tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/eios.html" class="catName">ЭИОС</a> 
+						<a href="http://student.jurac.ru/" class="catName">Войти в электронную информационно-образовательную среду Moodle</a> 
 					</td>
 				</tr>[/not-static]
                     [not-static=faculty-400301]<tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/faculty-400301.html" class="catName">Факультет юриспруденции (бакалавриат)</a> 
+						<a href="https://jurac.ru/structure-library.html" class="catName">Издания электронных библиотечных систем</a> 
 					</td>
 				</tr>[/not-static]
                                         [not-static=faculty-400401]<tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/faculty-400401.html" class="catName">Факультет юриспруденции (магистратура)</a> 
-					</td>
-				</tr>[/not-static]
-                                        [not-static=structure-council]<tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/structure-council.html" class="catName">Учёный совет</a> 
-					</td>
-				</tr>[/not-static]
-                                        <tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/subfaculty.html" class="catName">Кафедры</a> 
-					</td>
-				</tr>
-                  <tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/priemnaya-komissiya.html" class="catName">Приёмная комиссия</a> 
-					</td>
-				</tr>
-                                        [not-static=otdely-i-otdeleniya]<tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/otdely-i-otdeleniya.html" class="catName">Отделы и отделения</a> 
-					</td>
-				</tr>[/not-static]
-                                        [not-static=structure-quality_central]<tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/structure-quality_central.html" class="catName">Центр управления качеством образовательной деятельности</a> 
-					</td>
-				</tr>[/not-static]
-                                        [not-static=structure-clinic]<tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/structure-clinic.html" class="catName">Юридическая клиника</a> 
-					</td>
-				</tr>[/not-static]
-                                        [not-static=structure-sluzhba-glavnogo-inzhenera]<tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/structure-sluzhba-glavnogo-inzhenera.html" class="catName">Служба главного инженера</a> 
-					</td>
-				</tr>[/not-static]
-                    [not-static=structure-tsentr-sodeystviya-trudoustroystvu-vypusknikov]<tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/structure-tsentr-sodeystviya-trudoustroystvu-vypusknikov.html" class="catName">Центр содействия трудоустройству выпускников</a> 
-					</td>
-                    </tr>
-                    [/not-static]
-                    
-                [not-static=sveden-trudoustroystvo-vipusk]
-                    <tr>
-                        <td style="width:100%" class="castTd" valgin="top">
-                         <a href="/sveden-trudoustroystvo-vipusk.html" class="catName">Сведения о трудоустройстве выпускников</a>
-                         </td>
-                    </tr>          
-				[/not-static]
-                    
-                     [not-static=structure-library]<tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/structure-library.html" class="catName">Библиотека</a> 
+						<a href="https://vk.com/club159942048" class="catName">Группа "В контакте"</a> 
 					</td>
 				</tr>[/not-static]
                 <tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/uploads/files/2017-12/polog_centr_proforit_2016.pdf" class="catName" target="_blank">Центр профориентационной деятельности и практической подготовки обучающихся</a> 
-					</td>
-				</tr>
+                <td style="width:100%" class="catsTd" valign="top">
+                    <a class="catName">Корпоративная почта: rectorat@jurac.ru</a>
+                </td>
+                </tr>
+
 			</tbody></table>           
 		</div>
 	</div>

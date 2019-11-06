@@ -1,7 +1,7 @@
 <div class="cnt clr">	   
      <div class="icon-block col3 animated fadeInUp" data-animated="fadeInUp">
 			<i class="fa fa-graduation-cap"></i>            
-			<h4>Электронная информационно-образовательная среда</h4>                                                                 
+			<a href="https://jurac.ru/eios.html"><h4>Электронная информационно-образовательная среда</h4></a>                                                                 
 			<p><b>
                 	<font color="red">-></font>
                 	<a href="/students.html"> Обучающимся</a>
