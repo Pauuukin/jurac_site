@@ -16,7 +16,7 @@
         </div>
     </a>  
     
-    <a href="/ofo-table/253-400301400401.html">
+    <a href="/ofo-table/321-raspisanie-19-20.html">
         <div class="icon-block col3 animated fadeInUp" data-animated="fadeInUp">
             <i class="fa fa-graduation-cap"></i>            
 	        <h4><br>Расписание</h4>                                                                  			

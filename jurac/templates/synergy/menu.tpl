@@ -66,7 +66,7 @@
                 <ul>
 				    <li><a href="/studencheskiy-sovet.html"><span>Студенческий совет</span></a></li>
                     <li><a href="/vospetdet.html"><span>Воспитательная деятельность</span></a></li>
-                    <li><a href="/ofo-table/321-raspisanie-19-20.html"><span>Расписание</span></a></li>
+                    <li><a href="https://jurac.ru/ofo-table/321-raspisanie-19-20.html"><span>Расписание</span></a></li>
                     <li><a href="/scince-result-stud/247-10215-231117.html"><span>Достижения</span></a></li>
                     <li><a href="/students-volunteer.html"><span>Клуб волонтеров</span></a></li>
                     <li><a href="/eios.html"><span>Электронная информационно-образовательная среда</span></a></li>
