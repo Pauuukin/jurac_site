@@ -32,9 +32,9 @@
 			<i class="fa fa-wheelchair"></i>
 			<h4>Клуб<br>волонтёров</h4>
 		</div></a>
-			<a href="http://student.jurac.ru/" target="_blank"><div class="icon-block col3 animated fadeInRight" data-animated="fadeInRight">
+			<a href="http://jurac.ru/eios.html" target="_blank"><div class="icon-block col3 animated fadeInRight" data-animated="fadeInRight">
 			<i class="fa fa-maxcdn"></i>
-			<h4>MOODLE</h4>
+			<h4>Электронная информационно-образовательная среда</h4>
 		</div>  </a>                                        		                                                               
                        
 	            </div>
