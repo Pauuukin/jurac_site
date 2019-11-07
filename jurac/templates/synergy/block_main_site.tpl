@@ -32,7 +32,8 @@
 			<i class="fa fa-wheelchair"></i>
 			<h4>Клуб<br>волонтёров</h4>
 		</div></a>
-			<a href="http://jurac.ru/eios.html" target="_blank"><div class="icon-block col3 animated fadeInRight" data-animated="fadeInRight">
+			<a href="http://jurac.ru/eios.html" target="_blank">
+			<div class="icon-block col3 animated fadeInRight" data-animated="fadeInRight">
 			<i class="fa fa-maxcdn"></i>
 			<h4>Электронная информационно-образовательная среда</h4>
 		</div>  </a>                                        		                                                               
@@ -52,7 +53,7 @@
 				<tbody>
  [not-static=students]<tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/studencheskiy-sovet.html" class="catName">Обучающимся</a> 
+						<a href="/students.html" class="catName">Обучающимся</a> 
 					</td>
 				</tr>[/not-static]
                     <tr>
@@ -60,24 +61,19 @@
 						<a href="/priemnaya-komissiya.html" class="catName">Поступающим</a> 
 					</td>
 				</tr>
-[not-static=graduates]<tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/fotogalereya-sobytiy/" class="catName">Выпускникам</a>
-					</td>
-                 </tr>[/not-static]
                     <tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/sostav.html" class="catName">Библиотека</a> 
+						<a href="/structure-library.html" class="catName">Библиотека</a> 
 					</td>
 				</tr>
                     <tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/sostav.html" class="catName">Юридическая клиника</a> 
+						<a href="/structure-clinic.html" class="catName">Юридическая клиника</a> 
 					</td>
 				</tr>
                     <tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/sostav.html" class="catName">Научная деятельность</a> 
+						<a href="/science/277-science-m.html" class="catName">Научная деятельность</a> 
 					</td>
 				</tr>
 			</tbody></table>           
