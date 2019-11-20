@@ -75,6 +75,7 @@
         <li class="uWithSubmenu"> <a  href="/students.html"><span>Обучающимся<br><br></span><pre> </pre></span></a>
                 <ul>
 				    <li><a href="/studencheskiy-sovet.html"><span>Студенческий совет</span></a></li>
+                    <li><a href="https://jurac.ru/studencheskiy-sovet"><span>Новости студенческого совета</span></a></li>
                     <li><a href="/vospetdet.html"><span>Воспитательная деятельность</span></a></li>
                     <li><a href="https://jurac.ru/ofo-table/321-raspisanie-19-20.html"><span>Расписание</span></a></li>
                     <li><a href="/scince-result-stud/247-10215-231117.html"><span>Достижения</span></a></li>
