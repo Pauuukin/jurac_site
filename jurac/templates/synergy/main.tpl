@@ -205,6 +205,14 @@
         <a href="mailto:zfo-dekan@jurac.ru">ЗФО(Баклавриат)</a>-->
 	</p>
 </div>
+<div class="icon-block col3">
+	<i class="fa fa-balance-scale"></i>
+	<h4>Антикоррупционная деятельность</h4>
+	<p>
+		<a href="/antikor.html">Антикоррупционная деятельность</a><br>
+	
+	</p>
+</div>
 </div> 
 </section>  
 [/available]
