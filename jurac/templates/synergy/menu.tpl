@@ -17,7 +17,7 @@
                 <li><a href="/sveden/budget" target="_blank"><span>Финансово-хозяйственная деятельность</span></a></li>		
 				<li><a href="/sveden/vacant"><span>Вакантные места для приёма (перевода)</span></a></li>
                 <li><a href="/sveden/ovz"><span>Доступная среда</span></a></li>
-                <li><a href="/int_coop.html"><span>Международное сотрудничество</span></a></li>														
+                <li><a href="/sveden/inter"><span>Международное сотрудничество</span></a></li>														
                </ul>
             </li>   
 		<li class="uWithSubmenu">
@@ -94,7 +94,7 @@
             <li><a href="/science/279-n-r-science.html">Направление и результаты деятельности</a></li>
             <li><a href="/science/275-sno.html">Студенческое научное общество</a></li>
             <li><a href="/science/280-about-vestnik.html">Вестник Санкт-Петербургской юридической академии</a></li>
-            <li><a href="/int_coop.html"><span>Международное<br>сотрудничество</span></a></li>
+            <li><a href="/sveden/inter"><span>Международное<br>сотрудничество</span></a></li>
         </ul>
         </li>
                
