@@ -194,20 +194,23 @@
     ЗФО(Баклавриат):    (812) 677-83-04<br>
 	</p>
 </div>
-       
-<div class="icon-block col3">
+<!--       
+ <div class="icon-block col3">
 	<i class="fa fa-envelope-o"></i>
 	<h4>Обратная связь</h4>
 	<p>
 		<a href="/index.php?do=feedback&user=13">Приёмная комиссия</a><br>
-		<!--<a href="mailto:rektorat@jurac.ru">Ректорат</a><br>
-		<a href="mailto:ofo@jurac.ru">ОФО(Баклавриат)</a><br>
-        <a href="mailto:zfo-dekan@jurac.ru">ЗФО(Баклавриат)</a>-->
+		"""потом закоммить три следующие строчки"""
+		-> <a href="mailto:rektorat@jurac.ru">Ректорат</a><br>
+		-> <a href="mailto:ofo@jurac.ru">ОФО(Баклавриат)</a><br>
+        -> <a href="mailto:zfo-dekan@jurac.ru">ЗФО(Баклавриат)</a> 
 	</p>
-</div>
+</div> 
+-->
 <div class="icon-block col3">
+	
 	<i class="fa fa-balance-scale"></i>
-	<h4>Антикоррупционная деятельность</h4>
+	<h4><a href="/antikor.html">Антикоррупционная деятельность</a></h4>
 	<p>
 		<a href="/antikor.html">Антикоррупционная деятельность</a><br>
 	
