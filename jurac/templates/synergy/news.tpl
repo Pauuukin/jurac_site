@@ -3,13 +3,11 @@
 			<i class="fa fa-graduation-cap"></i>            
 			<h4><a href="https://jurac.ru/eios.html">Электронная информационно-образовательная среда</a></h4>                                                               
 			<p><b>
-                	<font color="red">-></font>
-                	<a href="/students.html"> Обучающимся</a>
+                	<a href="/students.html">-> Обучающимся</a>
                 </b>
            <br/>
                 <b>
-                  	<font color="red">-></font>
-                    <a href="http://student.jurac.ru/" target="_blank"> Электронно-информационная<br>образовательная среда (moodle)</a>
+                    <a href="http://student.jurac.ru/" target="_blank">-> Электронно-информационная<br>образовательная среда (moodle)</a>
                 </b>
             </p>
 		</div>  
