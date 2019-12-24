@@ -47,10 +47,19 @@
 			<p class="title-descr">Новости/Объявления</p>
 		</div>
 	</div>-->[/available]
+	
+	
     <div class="cnt clr">
 {info}
 [not-aviable=main]{content}[/not-aviable]
 [available=main]<section class="section pricing">
+	<div class ="quote">
+		<div class="title center" data-animated = "fadeIn">
+			<h2>По результатам проведенного мониторинга эффективности деятельности образовательных организаций высшего образования <br> Санкт-Петербургская юридическая академия признанна эффективным вузом <br><a href="http://indicators.miccedu.ru/monitoring/_vpo/inst.php?id=1977">(Минобрнауки России)</a> </h2>
+		</div>
+	</div>
+	<br><br>
+
 	<div class="cnt">
 		<div class="title center" data-animated="fadeIn">
 			<h3 class="title-1">Свидетельство о профессионально-общественной аккредитации</h3>
