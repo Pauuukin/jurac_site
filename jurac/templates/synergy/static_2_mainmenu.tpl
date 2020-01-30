@@ -21,7 +21,7 @@
 
 	<div class="clr">
 		<div class="block">
-			<h5>Структура образовательной орагнизации</h5>
+			<h5>Структура образовательной организации</h5>
 			<table border="0" cellspacing="1" cellpadding="0" width="100%" class="catsTable">
 				<tbody>
                     [not-static=rector]<tr>
