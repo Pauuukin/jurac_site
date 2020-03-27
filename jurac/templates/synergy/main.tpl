@@ -52,8 +52,12 @@
     <div class="cnt clr">
 {info}
 [not-aviable=main]{content}[/not-aviable]
-[available=main]<section class="section pricing">
-	<div class ="quote">
+[available=main]
+         <div div class="title center"> <a href="https://jurac.ru/virus_live.html" style="color:#FF0000; font-size: 19px; text-align : center;" class="more-1" >ИНФОРМАЦИЯ ПО КОРОНАВИРУСУ И ДИСТАНЦИОННОМУ ОБУЧЕНИЮ<span>--></span></a>
+	</div>
+        <section class="section pricing">
+           
+                <div class ="quote">
 		<div class="title center" data-animated = "fadeIn">
 			<h2>По результатам проведенного мониторинга эффективности деятельности образовательных организаций высшего образования <br> Санкт-Петербургская юридическая академия признанна эффективным вузом <br><a href="http://indicators.miccedu.ru/monitoring/_vpo/inst.php?id=1977">(Минобрнауки России)</a> </h2>
 		</div>
