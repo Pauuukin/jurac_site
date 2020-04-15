@@ -11,6 +11,8 @@
                  </article>               
            </div>
 </div> 
+
+
 <aside id="sidebar"><br />
 	<form id="q_search" method="post">
 		<input id="story" name="story" type="search" class="search-keyword" placeholder="Поиск по сайту" autocomplete="off">
