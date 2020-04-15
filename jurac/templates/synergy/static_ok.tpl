@@ -10,8 +10,6 @@
 	            </div>
                  </article>               
            </div>
-
-		   
 </div> 
 <aside id="sidebar"><br />
 	<form id="q_search" method="post">
