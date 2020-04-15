@@ -39,14 +39,10 @@
 						<a href="/sveden/struct" class="catName">Положения</a> 
 					</td>
 				</tr>
-                    <tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/vacansions/" class="catName">Вакансии</a> 
-					</td>
-				</tr>
+                   
                                         <tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/quests/" class="catName">Конкурсы</a> 
+						<a href="/quests/" class="catName">Конкурсы и Вакансии</a> 
 					</td>
 				</tr>
                 
