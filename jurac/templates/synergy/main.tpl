@@ -53,16 +53,25 @@
 {info}
 [not-aviable=main]{content}[/not-aviable]
 [available=main]
-         <div div class="title center"> <a href="https://jurac.ru/virus_live.html" style="color:#FF0000; font-size: 19px; text-align : center;" class="more-1" >ИНФОРМАЦИЯ ПО КОРОНАВИРУСУ И ДИСТАНЦИОННОМУ ОБУЧЕНИЮ<span>--></span></a>
+         <div class="title center"> <a href="https://jurac.ru/virus_live.html" style="color:#FF0000; font-size: 19px; text-align : center;" class="more-1" >ИНФОРМАЦИЯ ПО КОРОНАВИРУСУ И ДИСТАНЦИОННОМУ ОБУЧЕНИЮ<span>--></span></a>
 	</div>
-        <section class="section pricing">
-           
-                <div class ="quote">
-		<div class="title center" data-animated = "fadeIn">
-			<h2>По результатам проведенного мониторинга эффективности деятельности образовательных организаций высшего образования <br> Санкт-Петербургская юридическая академия признанна эффективным вузом <br><a href="http://indicators.miccedu.ru/monitoring/_vpo/inst.php?id=1977">(Минобрнауки России)</a> </h2>
-		</div>
-	</div>
-	<br><br>
+        <div class ="quote">
+				<div class="title center" data-animated = "fadeIn">
+					<h3>В связи с распространением новой коронавирусной инфекции (COVID-19)»
+С 03 АПРЕЛЯ 2020 ГОДА ДО ОСОБОГО РАСПОРЯЖЕНИЯ:<br>
+–<b> КОНСУЛЬТИРОВАНИЕ</b> по вопросам поступления и подачи документов  осуществляется через <b>электронную почту : jurac.spb@mail.ru</b>
+<br>или через <b>контактный телефон (Приемная комиссия) :  +7 (921) 951-34-33</b> </h3>
+				</div>
+			</div>
+		
+		<section class="section pricing">
+            
+			<div class ="quote">
+				<div class="title center" data-animated = "fadeIn">
+					<h2>По результатам проведенного мониторинга эффективности деятельности образовательных организаций высшего образования <br> Санкт-Петербургская юридическая академия признанна эффективным вузом <br><a href="http://indicators.miccedu.ru/monitoring/_vpo/inst.php?id=1977">(Минобрнауки России)</a> </h2>
+				</div>
+			</div>
+			<br><br>
 
 	<div class="cnt">
 		<div class="title center" data-animated="fadeIn">
