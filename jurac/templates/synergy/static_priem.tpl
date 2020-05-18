@@ -4,10 +4,10 @@
                   <article class="box story">
 	                <div class="box_in"><br><br>
                     <h1 class="title">{description}</h1>
-                        <li><h5><a href="/abitur/"><span>Правила приёма</span></a>&nbsp;&nbsp;&nbsp;
-                        <a href="/abitur/"><span>Приёмная кампания</span></a>&nbsp;&nbsp;&nbsp;
+                        <li><h5>
+                      
                         <a href="structure-enterance-rules2.html"><span>Правила перевода</span></a>&nbsp;&nbsp;&nbsp;
-                        <a href="/sveden/vacant"><span>Вакантные места для приёма</span></a></h5></li><br>{banner_priemnaya}<br>
+                        <a href="/sveden/vacant"><span>Вакантные места для приёма</span></a></h5></li>{banner_priemnaya}
 		               <div class="text">{static}</div>
                         <table>
 	<tr>
