@@ -45,7 +45,9 @@
                </li>
                <li class="uWithSubmenu"><a href="/otdely-i-otdeleniya.html"><span>Отделы и отделения</span></a>
                <ul>
-                    <li><a href="/otdel-kadrov.html"><span>Отдел кадров</span></a></li>                    
+                    <li><a href="/otdel-kadrov.html"><span>Отдел кадров</span></a>
+                    	
+                   </li>                    
                     <li><a href="/finansovo-ekonomicheskiy-otdel.html"><span>Финансово-экономический отдел</span></a></li>
                     <li><a href="/uchebno-metodicheskiy-otdel.html"><span>Учебно-методический отдел</span></a></li>
                     <li><a href="/otdel-nauchnoy-i-innovacionnoy-deyatelnosti.html"><span>Отдел научной и инновационной деятельности</span></a></li>
@@ -54,7 +56,7 @@
                     <li><a href="/science-aspirantura.html"><span>Отдел аспирантуры</span></a></li>
                </ul>
                </li>
-                <li><a href="/priemnaya-komissiya.html"><span>Приёмная комиссия</span></a></li>
+                <li><a href="https://abiturient.jurac.ru/abitur"><span>Приёмная комиссия</span></a></li>
                 <li><a href="/structure-sluzhba-glavnogo-inzhenera.html"><span>Служба главного инженера</span></a></li>
                 <li><a href="/uploads/files/2017-12/polog_centr_proforit_2016.pdf" target="_blank"><span>Центр профориентационной деятельности и практической подготовки обучающихся</span></a></li>
                 <li><a href="/structure-tsentr-sodeystviya-trudoustroystvu-vypusknikov.html"><span>Центр содействия трудоустройству выпускников</span></a></li>
@@ -65,10 +67,11 @@
             </ul> 
             </li>
         
-        <li class="uWithSubmenu"> <a  href="/abitur"><span>Абитуриенту<br><pre> </pre></span></a>
+        <li class="uWithSubmenu"> <a  href="https://abiturient.jurac.ru/abitur"><span>Абитуриенту<br><pre> </pre></span></a>
                 <ul>
-				    <li><a href="/abitur/bachelor"><span>Бакалавриат / Магистратура</span></a></li>
-                    <li><a href="/abitur/aspirantura"><span>Аспирантура</span></a></li>
+				    <li><a href="https://abiturient.jurac.ru/abitur/bak"><span>Бакалавриат </span></a></li>
+                    <li><a href="https://abiturient.jurac.ru/abitur/mag"><span>Магистратура </span></a></li>
+                    <li><a href="https://abiturient.jurac.ru/abitur/asp"><span>Аспирантура</span></a></li>
                 </ul>
             </li>
         
