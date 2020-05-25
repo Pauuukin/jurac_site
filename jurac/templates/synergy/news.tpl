@@ -36,8 +36,8 @@
       
 		<div class="icon-block col3 animated fadeInLeft" data-animated="fadeInLeft">			       
           <i class="fa fa-bank"></i>            
-			<h4><a href="priemnaya-komissiya.html">Поступающим </a>  </h4>         
-			<p><a href="priemnaya-komissiya.html">Приёмная комиссия, правила приёма, приёмная компания, дни открытых дверей, экскурсия.</a> </p>              
+			<h4><a href="https://abiturient.jurac.ru/abitur/">Поступающим </a>  </h4>         
+			<p><a href="https://abiturient.jurac.ru/abitur/">Приёмная комиссия, правила приёма, приёмная компания, дни открытых дверей, экскурсия.</a> </p>              
 		</div> 
 	 
 </div>
