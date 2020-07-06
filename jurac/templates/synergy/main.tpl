@@ -134,8 +134,44 @@
 	</div>
 </section>
 
- <!-- Тарифы -->
-
+<br><br>
+<section class="section gmap">
+	<div class="cnt clr">
+		<div class="icon-block col2">
+			<i class="fa fa-balance-scale"></i>
+			<h4><a href="/antikor.html">Антикоррупционная деятельность</a></h4>
+			<p>
+				<a href="/antikor.html">Антикоррупционная деятельность</a><br>
+			</p>
+		</div>
+		<div class="icon-block col2">
+			<i class="fa fa-balance-scale"></i>
+			<h4><a href="//antiteror.html">Противодействие идеологии терроризма и экстремизма</a></h4>
+			<p>
+				<a href="/antiteror.html">Противодействие идеологии терроризма и экстремизма</a><br>
+			</p>
+		</div>
+		<div class="icon-block col2">
+	<i class="fa fa-comments"></i>
+	<h4>Пишите нам</h4>
+	<p>
+		Ректорат:  <a href="mailto:rektorat@jurac.ru" target="_blank" alt="Написать в АНО ВО СЮА через электронную форму письма.">rektorat@jurac.ru</a><br>
+		ОФО(Баклавриат):<a href="ofo@jurac.ru" target="_blank" alt="Написать в АНО ВО СЮА через электронную форму письма."> ofo@jurac.ru</a><br>
+		ЗФО(Баклавриат):<a href="zfo-dekan@jurac.ru" target="_blank" alt="Написать в АНО ВО СЮА через электронную форму письма."> zfo-dekan@jurac.ru</a><br>
+        Приёмная комиссия: <a href="priem@jurac.ru" target="_blank" alt="Написать в АНО ВО СЮА через электронную форму письма.">priem@jurac.ru</a>
+	</p>
+</div>
+<div class="icon-block col2">
+	<i class="fa fa-phone"></i>
+	<h4>звоните нам</h4>
+	<p>
+	Приёмная комиссия: <b>(812) 677-00-07</b><br>
+    ОФО(Баклавриат):   (812) 677-83-03<br>
+    ЗФО(Баклавриат):    (812) 677-83-04<br>
+	</p>
+</div>
+	</div>	
+</section>
 <section class="section pricing">
 	<div class="cnt">
 		<div class="title center" data-animated="fadeIn">
@@ -195,7 +231,7 @@
 
 
  <!-- Гугл карта -->
-  <section class="section gmap">
+  {* <section class="section gmap">
 	<div class="cnt clr">
 		<div class="icon-block col3">
 	<i class="fa fa-comments"></i>
@@ -239,7 +275,7 @@
 	</p>
 </div>
 </div> 
-</section>  
+</section>   *}
 [/available]
 <!-- Подвал -->
 	
