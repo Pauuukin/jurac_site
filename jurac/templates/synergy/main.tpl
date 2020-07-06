@@ -171,8 +171,8 @@
 	</p>
 </div>
 	</div>	
-</section>
-<section class="section pricing">
+
+
 	<div class="cnt">
 		<div class="title center" data-animated="fadeIn">
 			<!--<h3 class="title-1">Сколько вы можете зарабатывать и какие бонусы получите</h3>-->
@@ -197,6 +197,7 @@
 			</div>
 		</div>
 	</div>
+
 </section>
 <!-- Объявления --><center> 
 {banner_vide-nevskiy-r-n}
