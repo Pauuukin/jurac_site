@@ -1,14 +1,5 @@
 <div id="slider-body">
 	<div id="slider">
-		<div class="slide" data-image="{THEME}/images/slider/slide-1.jpg">
-			<div class="slide-content">
-			   <a href="/sveden" class="slide-title">Информация об академии</a>
-                <p class="slide-text">Сведения об академии</p>
-				<a href="https://jurac.ru/virus_live.html" style="color:#FFAA00; font-size: 19px;" class="more-1" >ИНФОРМАЦИЯ ПО КОРОНАВИРУСУ И ДИСТАНЦИОННОМУ ОБУЧЕНИЮ<span>--></span></a><br><br>
-				<!--<a href="https://jurac.ru/ads/331-sobranie-studentov-pervogo-kursa-magistratury-zaochnoj-formy-obuchenija.html" class="more-1">Информация о собрании для студентов первого курса магистратуры заочной формы обучения<span>></span></a>-->
-				<!--<a href="/o-nas.html" class="more-1">Посмотреть перечень документов<span>></span></a>-->
-			</div>
-		</div>
 		<div class="slide" data-image="{THEME}/images/slider/slide-2.jpg">
 			<div class="slide-content">
 				<a href="https://abiturient.jurac.ru/regabitur/" class="slide-title">Подать документы</a>	
@@ -20,6 +11,16 @@
 
             </div>
 		</div>
+        <div class="slide" data-image="{THEME}/images/slider/slide-1.jpg">
+			<div class="slide-content">
+			   <a href="/sveden" class="slide-title">Информация об академии</a>
+                <p class="slide-text">Сведения об академии</p>
+				<a href="https://jurac.ru/virus_live.html" style="color:#FFAA00; font-size: 19px;" class="more-1" >ИНФОРМАЦИЯ ПО КОРОНАВИРУСУ И ДИСТАНЦИОННОМУ ОБУЧЕНИЮ<span>--></span></a><br><br>
+				<!--<a href="https://jurac.ru/ads/331-sobranie-studentov-pervogo-kursa-magistratury-zaochnoj-formy-obuchenija.html" class="more-1">Информация о собрании для студентов первого курса магистратуры заочной формы обучения<span>></span></a>-->
+				<!--<a href="/o-nas.html" class="more-1">Посмотреть перечень документов<span>></span></a>-->
+			</div>
+		</div>
+		
 		<div class="slide" data-image="{THEME}/images/slider/slide-3.jpg">
 			<div class="slide-content">
 				<a href="/20yearsoldacademy.html" class="slide-title">Страницы истории</a>
