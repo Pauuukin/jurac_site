@@ -114,10 +114,16 @@
 	{custom category="14" template="short_news" aviable="main" from="0" limit="3" cache="no"}
 </div>   
 <div class="title center" data-animated="fadeIn">
+	<a href="/science-events/"><h3 class="title-1">Конференции</h3></a>
+	{custom category="25" template="short_konf" available="main" from="0" limit="1" cache="no"}
+</div>
+<div class="title center" data-animated="fadeIn">
 	<h3 class="title-1">Объявления</h3>
     <a href="/ads/"><p class="title-descr"><b>ВСЕ ОБЪЯВЛЕНИЯ</b></p></a>
 	{custom category="15" template="short_news" aviable="main" from="0" limit="3" cache="no"}
 </div>
+
+
 [/aviable]  
        
 <div class="title center" data-animated="fadeIn"></div>           
