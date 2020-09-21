@@ -175,18 +175,18 @@
 		<div class="col4">
 			<div class="pricing-table">
 			    <h3>Фотохроника</h3>			
-                <a href="https://vk.com/albums-159942048" target="_blank"><img src="{THEME}/images/site_fotohronika.jpg"></a>
+                <a href="https://vk.com/albums-159942048" target="_blank"><img src="{THEME}/images/site_fotohronika.jpg " width=65% height=65%></a>
             </div>
 		</div>
 		<div class="col4">
 			<div class="pricing-table current">
-              <a href="/science/280-about-vestnik.html">  <img src="{THEME}/images/site_vestnik.png"></a>
+              <a href="/science/280-about-vestnik.html">  <img src="{THEME}/images/site_vestnik.png" width=65% height=65%></a>
 			</div>
 		</div>
 		<div class="col4">
 			<div class="pricing-table">
 			    <h3>Видеоматериалы</h3>
-               <a href="https://vk.com/videos-159942048" target="_blank" title="Видеоархив АНО ВО СЮА"><img src="{THEME}/images/site_video.jpg"></a>
+               <a href="https://vk.com/videos-159942048" target="_blank" title="Видеоархив АНО ВО СЮА"><img src="{THEME}/images/site_video.jpg" width=65% height=65%></a>
 			</div>
 		</div>
 	</div>
