@@ -57,31 +57,26 @@
 	</div>
         <div class ="quote">
 				<div class="title center" data-animated = "fadeIn">
-					<h4  style="color:#FF0000;">В связи с распространением новой коронавирусной инфекции (COVID-19)»
+					<h5  style="color:#FF0000;">В связи с распространением новой коронавирусной инфекции (COVID-19)»
 С 03 АПРЕЛЯ 2020 ГОДА ДО ОСОБОГО РАСПОРЯЖЕНИЯ:<br>
 –<b> КОНСУЛЬТИРОВАНИЕ</b> по вопросам поступления и подачи документов  осуществляется через <b>электронную почту : jurac.spb@mail.ru</b>
-<br>или через <b>контактный телефон (Приемная комиссия) : <br> +7 (921) 951-34-33 <br> +7 (812) 677-00-07 <br> +7 (921) 564-31-01</b> </h4>
-				</div>
-			</div>
-		
-		
-<div class ="quote">
-				<div class="title center" >
-		<h4>Уважаемые абитуриенты!<br><br>
+<br>или через <b>контактный телефон (Приемная комиссия) : <br> +7 (921) 951-34-33 <br> +7 (812) 677-00-07 <br> +7 (921) 564-31-01</b> </h5>
+				
+	<hr>	
+<br>
+		<h5>Уважаемые абитуриенты!<br><br>
 Кто не успел подать документы для поступления на обучение в
 основной набор или пройти вступительные испытания, могут это сделать
 в период дополнительного набора. Сроки дополнительного набора указаны
-на сайте в разделе «Абитуриент» → «Календарь приема»</h4>
-</div>
-			</div>
+на сайте в разделе «Абитуриент» → «Календарь приема»</h5>
+
+            		
+	<hr>	
+<br>
 			
-            
-			<div class ="quote">
-				<div class="title center" data-animated = "fadeIn">
-					<h4>По результатам проведенного мониторинга эффективности деятельности образовательных организаций высшего образования <br> Санкт-Петербургская юридическая академия признанна эффективным вузом <br><a href="http://indicators.miccedu.ru/monitoring/_vpo/inst.php?id=1977">(Минобрнауки России)</a> </h4>
+					<h5>По результатам проведенного мониторинга эффективности деятельности образовательных организаций высшего образования <br> Санкт-Петербургская юридическая академия признанна эффективным вузом <br><a href="http://indicators.miccedu.ru/monitoring/_vpo/inst.php?id=1977">(Минобрнауки России)</a> </h5>
 				</div>
-			</div>
-			<br><br>
+</div>
 <section class="section pricing">
 	<div class="cnt">
 		<div class="title center" data-animated="fadeIn">
@@ -277,7 +272,7 @@
 </section>   *}
 <section class="section gmap">
 	<div class="cnt clr">
-		<div class="icon-block col2">
+		<div class="icon-block col3">
 	<i class="fa fa-comments"></i>
 	<h4>Пишите нам</h4>
 	<p>
@@ -286,8 +281,9 @@
 		ЗФО(Баклавриат):<a href="zfo-dekan@jurac.ru" target="_blank" alt="Написать в АНО ВО СЮА через электронную форму письма."> zfo-dekan@jurac.ru</a><br>
         Приёмная комиссия: <a href="priem@jurac.ru" target="_blank" alt="Написать в АНО ВО СЮА через электронную форму письма.">priem@jurac.ru</a>
 	</p>
-</div>
-<div class="icon-block col2">
+
+       </div>
+<div class="icon-block col3">
 	<i class="fa fa-phone"></i>
 	<h4>звоните нам</h4>
 	<p>
@@ -295,6 +291,10 @@
     ОФО(Баклавриат):   (812) 677-83-03<br>
     ЗФО(Баклавриат):    (812) 677-83-04<br>
 	</p>
+</div>
+        <div class="icon-block col3">
+	<i class="fa"><img src="{THEME}/images/qr.png" width=70px; height=70px></i> 
+        <h4><a href="https://lk.ecp.spb.ru/user/declaration-organization/?inn=7811618418&category=7">QR-код – соответствие Стандартам безопасной деятельности</a></h4>
 </div>
 	</div>
 </section>
