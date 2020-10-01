@@ -857,6 +857,11 @@ font-size: 42px;
 }
 
 
+.myTable {border-top: 3px solid grey; }
+
+.myTable td {border-bottom: 1px solid grey;}
+
+
 .pricing {
  padding-bottom: 60px;
 }
