@@ -58,7 +58,7 @@
 				</tr>[/not-static]
                     <tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/priemnaya-komissiya.html" class="catName">Поступающим</a> 
+						<a href="https://abiturient.jurac.ru/abitur/" class="catName">Поступающим</a> 
 					</td>
 				</tr>
                     <tr>

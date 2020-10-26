@@ -29,11 +29,7 @@
 						<a href="/studencheskiy-sovet.html" class="catName">Студенческий совет</a> 
 					</td>
 				</tr>
-                    <tr>
-					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/priemnaya-komissiya.html" class="catName">Воспитательная деятельность</a> 
-					</td>
-				</tr>
+                
                   <tr>
 					<td style="width:100%" class="catsTd" valign="top">
 						<a href="/fotogalereya-sobytiy/" class="catName">Достижения</a>

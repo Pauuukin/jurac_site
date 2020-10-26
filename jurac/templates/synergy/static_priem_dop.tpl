@@ -25,17 +25,17 @@
 			<table border="0" cellspacing="1" cellpadding="0" width="100%" class="catsTable">
 				<tbody><tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/priemnaya-komissiya.html" class="catName">Приёмная комиссия: главная</a> 
+						<a href="https://abiturient.jurac.ru/abitur/" class="catName">Приёмная комиссия: главная</a> 
 					</td>
 				</tr>
 				<tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/abitur" class="catName">Правила приёма</a>
+						<a href="https://abiturient.jurac.ru/abitur/" class="catName">Правила приёма</a>
 					</td>
 				</tr>
 				<tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/abitur" class="catName">Приёмная кампания</a> 
+						<a href="https://abiturient.jurac.ru/abitur/" class="catName">Приёмная кампания</a> 
 					</td>
 				</tr>
 				<tr>

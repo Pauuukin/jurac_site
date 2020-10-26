@@ -76,7 +76,7 @@
 				</tr>
                   <tr>
 					<td style="width:100%" class="catsTd" valign="top">
-						<a href="/priemnaya-komissiya.html" class="catName">Приёмная комиссия</a> 
+						<a href="https://abiturient.jurac.ru/abitur/" class="catName">Приёмная комиссия</a> 
 					</td>
 				</tr>
                                         [not-static=otdely-i-otdeleniya]<tr>
