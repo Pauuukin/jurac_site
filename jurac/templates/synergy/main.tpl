@@ -152,9 +152,9 @@
 		</div>
 		<div class="icon-block col2">
 			<i class="fa fa-balance-scale"></i>
-			<h4><a href="/antiteror.html">Противодействие идеологии терроризма и экстремизма</a></h4>
+			<h4><a href="/antiteror.html">Противодействие идеологии терроризма и экстремизма</a></h4>
 			<p>
-				<a href="/antiteror.html">Противодействие идеологии терроризма и экстремизма</a><br>
+				<a href="/antiteror.html">Противодействие идеологии терроризма и экстремизма</a><br>
 			</p>
 		</div>
 		
