@@ -5,19 +5,19 @@
 		<li class="uWithSubmenu">
 			<a href="/sveden"><span>Сведения об<br>образовательной<br>организации</span></a>
 			<ul>
-				<li><a href="/sveden/common"><span>Основные сведения</span></a></li>
-                <li><a href="/sveden/struct"><span>Структура и органы управления образовательной организацией</span></a></li>
-				<li><a href="/sveden/document"><span>Документы</span></a></li> 
-				<li><a href="/sveden/education"><span>Образование</span></a></li>  
-				<li><a href="/sveden/eduStandarts"><span>Образовательные стандарты</span></a></li>             																					
-				<li><a href="/sveden/employees"><span>Руководство.<br>Педагогический (научно-педагогический) состав</span></a></li>
-				<li><a href="/sveden/objects"><span>Материально-техническое обеспечение и оснащённость образовательного процесса</span></a></li>            
-                <li><a href="/sveden/grants"><span>Стипендии и иные виды материальной поддержки</span></a></li>
-                <li><a href="/sveden/paid_edu"><span>Платные образовательные услуги</span></a></li>	
-                <li><a href="/sveden/budget" target="_blank"><span>Финансово-хозяйственная деятельность</span></a></li>		
-				<li><a href="/sveden/vacant"><span>Вакантные места для приёма (перевода)</span></a></li>
-                <li><a href="/sveden/ovz"><span>Доступная среда</span></a></li>
-                <li><a href="/sveden/inter"><span>Международное сотрудничество</span></a></li>														
+				<li><a href="https://jurac.ru/sveden/common" target="_blank"><span>Основные сведения</span></a></li>
+                <li><a href="https://jurac.ru/sveden/struct" target="_blank"><span>Структура и органы управления образовательной организацией</span></a></li>
+				<li><a href="https://jurac.ru/sveden/document" target="_blank"><span>Документы</span></a></li> 
+				<li><a href="https://jurac.ru/sveden/education" target="_blank"><span>Образование</span></a></li>  
+				<li><a href="https://jurac.ru/sveden/eduStandarts" target="_blank"><span>Образовательные стандарты</span></a></li>             																					
+				<li><a href="https://jurac.ru/sveden/employees" target="_blank"><span>Руководство.<br>Педагогический (научно-педагогический) состав</span></a></li>
+				<li><a href="https://jurac.ru/sveden/objects" target="_blank"><span>Материально-техническое обеспечение и оснащённость образовательного процесса</span></a></li>            
+                <li><a href="https://jurac.ru/sveden/grants" target="_blank"><span>Стипендии и иные виды материальной поддержки</span></a></li>
+                <li><a href="https://jurac.ru/sveden/paid_edu" target="_blank"><span>Платные образовательные услуги</span></a></li>	
+                <li><a href="https://jurac.ru/sveden/budget" target="_blank"><span>Финансово-хозяйственная деятельность</span></a></li>		
+				<li><a href="https://jurac.ru/sveden/vacant" target="_blank"><span>Вакантные места для приёма (перевода)</span></a></li>
+                <li><a href="https://jurac.ru/sveden/ovz" target="_blank"><span>Доступная среда</span></a></li>
+                <li><a href="https://jurac.ru/sveden/inter" target="_blank"><span>Международное сотрудничество</span></a></li>														
                </ul>
             </li>   
 		<li class="uWithSubmenu">
@@ -67,11 +67,11 @@
             </ul> 
             </li>
         
-        <li class="uWithSubmenu"> <a  href="https://abiturient.jurac.ru/abitur"><span>Абитуриенту<br><pre> </pre></span></a>
+        <li class="uWithSubmenu"> <a  href="https://abiturient.jurac.ru/abitur" target="_blank"><span>Абитуриенту<br><pre> </pre></span></a>
                 <ul>
-				    <li><a href="https://abiturient.jurac.ru/abitur/bak"><span>Бакалавриат </span></a></li>
-                    <li><a href="https://abiturient.jurac.ru/abitur/mag"><span>Магистратура </span></a></li>
-                    <li><a href="https://abiturient.jurac.ru/abitur/asp"><span>Аспирантура</span></a></li>
+				    <li><a href="https://abiturient.jurac.ru/abitur/bak" target="_blank"><span>Бакалавриат </span></a></li>
+                    <li><a href="https://abiturient.jurac.ru/abitur/mag" target="_blank"><span>Магистратура </span></a></li>
+                    <li><a href="https://abiturient.jurac.ru/abitur/asp" target="_blank"><span>Аспирантура</span></a></li>
                 </ul>
             </li>
         
