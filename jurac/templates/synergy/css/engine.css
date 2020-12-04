@@ -1,7 +1,7 @@
-/*--- Загрузчик AJAX ---*/
+/*--- пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ AJAX ---*/
 #loading-layer { background: #000; padding: 20px; text-align: center; color: #fff; border-radius: 2px }
 
-/*--- Цитаты, Спойлеры, Код  ---*/
+/*--- пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ  ---*/
 .scriptcode,.title_spoiler, .text_spoiler { padding: 2% 4%; background: #fff; border: 1px solid #dde4ea; }
 .title_quote{
     padding-top: 2%;
@@ -22,7 +22,7 @@
 	.hide { background-color: #f0f0f0; padding: 5px; color: #4c6d0f; margin: 0 0 1em 0 }
 	.hide a { text-decoration: underline; } .hide a:hover { text-decoration: none }
 
-/* --- Сортировка статей --- */
+/* --- пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ --- */
 .sort { list-style: none; padding: 0; margin: 0; }
 	.sort > li, .sort { display: inline; }
 	.sort > li { margin: 0 0 0 3%; }
@@ -39,7 +39,7 @@
 	}
 	.sort > li.asc a:after { background-position: 0 -11px; }
 	
-/* --- Оформление календаря --- */
+/* --- пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ --- */
 .calendar { width: 100%; text-align: center; }
 .calendar tr td, .calendar tr th { padding: 3px; }
 	.calendar tr td a { color: inherit; font-weight: bold; }
@@ -50,7 +50,7 @@
 	.calendar tr th.monthselect { background-color: transparent; color: #b8b8b8; padding-bottom: 15px; }
 	.calendar tr th.monthselect a { color: #b8b8b8; }
 
-/* --- Вывод результатов голосования на сайте --- */
+/* --- пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ --- */
 .voteprogress, .pollprogress {
 	overflow: hidden;
 	height: 6px;
@@ -71,7 +71,7 @@
 	.voteprogress .vote4, .pollprogress .poll4 { background-color: #4bb1cf; }
 	.voteprogress .vote5, .pollprogress .poll5 { background-color: #faa732; }
 
-/*--- Рейтинг - Звездами ---*/
+/*--- пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ ---*/
 .rating, .unit-rating { width: 115px; height: 23px; }
 	.rating { font-size: 11px; }
 	.unit-rating, .unit-rating li a:hover, .unit-rating li.current-rating {
@@ -138,14 +138,14 @@
 		color: #6c838e;
 	}
 	
-/*--- Таблица Персональных сообщений и лучших пользователей ---*/
+/*--- пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ ---*/
 .userstop td, .pm td.pm_list, .pm td.pm_head { border-bottom: 1px solid #efefef; padding: 12px 2px; }
 	table.pm, table.userstop { width: 100%; margin-bottom: 0; }
 	table.pm select { width: 100px; }
 	.userstop thead td, .pm td.pm_head { border-bottom: 1px solid #efefef; font-weight: bold; }
 	table.pm .navigation { border-top-width: 0; margin: 0; }
 
-/*---Выпадающее меню кнопки редактировать---*/
+/*---пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ---*/
 #dropmenudiv { padding: 10px 0; min-width: 140px; width: auto !important; opacity: 1 !important; display: none; font-size: .9em;
 		box-shadow: 0 8px 40px -10px rgba(0,0,0,0.3); border: 1px solid #e6e6e6; border-color: rgba(0,0,0,0.1); background-clip: padding-box;
 	}
@@ -153,7 +153,7 @@
 	#dropmenudiv a { text-decoration: none !important; color: inherit; display: block; padding: 3px 20px; border: 0 none; white-space: nowrap; color: inherit; }
 	#dropmenudiv a:hover { background-color: #eeeeef; }
 
-/*---показ оригинальной картинки загруженной на сайт из уменьшенной копии---*/
+/*---пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ---*/
 .highslide-wrapper, .highslide-outline { background: #fff }
 	.highslide-image { border: 2px solid #fff }
 	.highslide-active-anchor { visibility: hidden } 
@@ -192,7 +192,7 @@
 	.highslide-controls .highslide-close a { background-position: -180px 0 }
 	.highslide-controls .highslide-close a:hover { background-position: -180px -30px }
 
-/*---Быстрый поиск на сайте---*/
+/*---пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ---*/
 #searchsuggestions {
 	z-index: 2200;
 	width: 300px;
@@ -214,7 +214,7 @@
 	#searchsuggestions span.notfound { padding: 15px 25px; display: block; }
 	#searchsuggestions .break { display: none; }
 
-/*---Диалоговые и всплывающие окна jQuery UI---*/
+/*---пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ jQuery UI---*/
 .ui-widget-overlay {
 	background: #000;
 	opacity: 0.5;
@@ -274,7 +274,7 @@
 	.ui-button { margin: 0 3px; }
 	.ui-helper-hidden-accessible{display: none;}
 
-/* --- Автозаполнение облака тегов --- */
+/* --- пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ --- */
 .ui-autocomplete { position: absolute; cursor: default; }
 * html .ui-autocomplete { width: 1px } /* without this, the menu expands to 100% in IE6 */
 .ui-menu {
@@ -291,7 +291,7 @@
 	.ui-menu .ui-menu-item a.ui-state-hover,
 	.ui-menu .ui-menu-item a.ui-state-active { font-weight: normal; margin: -1px; border: 1px solid #a7a7a7; color: #4e4e4e; font-weight: bold; }
 
-/*---Подсветка кода в теге [code]---*/
+/*---пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ [code]---*/
 pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px solid #dce7e7; overflow:auto; white-space: pre; }
 	pre .comment, pre .template_comment, pre .diff .header, pre .doctype, pre .lisp .string, pre .javadoc { padding: 0; margin: 0; border:none; box-shadow: none; background-color: inherit; color: #93a1a1; font-style: italic; }
 	pre .keyword, pre .css .rule .keyword, pre .winutils, pre .javascript .title, pre .method, pre .addition, pre .css .tag, pre .lisp .title { color: #859900; }
@@ -307,7 +307,7 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
 	pre .tex .formula { background: #eee8d5; }
 	pre .comment:hover {background-color: inherit;box-shadow: none;}
 
-/*---BB Редактор---*/
+/*---BB пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ---*/
 .bb-pane {
     padding-bottom: 5px;
 }
@@ -429,7 +429,7 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
 
 	.bb-pane-dropdown table { margin: 0px; }
 
-/*---Поля быстрого редактирования публикаций на сайте---*/
+/*---пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ---*/
 .quick-edit-text { padding: .4em; width: 350px; }
 	.quick-edit-textarea {
 		height: 250px; padding: 2px;
@@ -440,7 +440,7 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
 		transition:border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
 	}
 
-/*---Выделение текста и всплывающее окно (поделиться ссылкой)---*/
+/*---пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ)---*/
 #marker-bar,
 	#txtselect_marker {
 		display: block;
@@ -579,7 +579,7 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
 	#share-popup .link a { display: block; }
 	.dle-alert, .dle-confirm, .dle-promt { padding: 20px 1em !important; }
 
-/* --- Поля форм --- */
+/* --- пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ --- */
 
 	textarea { margin: 0; overflow: auto; vertical-align: top; resize: vertical; }
 	input[type="radio"], input[type="checkbox"] { line-height: normal; margin: -2px 6px 0 0; vertical-align: middle; }
@@ -590,7 +590,7 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
 	input[type="file"], input[type="image"] { padding: 0; border-width: 0; background-color: transparent; }
 	#searchuser, #searchinput { width: 100% !important; margin-bottom: 10px; }
 
-	/* Настройка стандартной капчи */
+	/* пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ */
 	.form_submit .c-captcha { float: right; }
 	.c-captcha { position: relative; }
 	.c-captcha:after { clear: both; display: block; content: ""; }
@@ -604,7 +604,7 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
 	}
 	.c-captcha > input { float: left; width: 130px; }
 
-/* --- Настройка кнопок --- */
+/* --- пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ --- */
 
 	.btn > .icon { fill: #fff; }
 	.btn-white > .icon { fill: #3394e6; }
@@ -627,7 +627,7 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
 		box-shadow: inset 0 0 0 2px rgba(51,148,230,0.2); -webkit-box-shadow: inset 0 0 0 2px rgba(51,148,230,0.2);
 	}
 
-/*---Дополнительные поля---*/
+/*---пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ---*/
 .xfields textarea, .xprofile textarea {
     width: 100%;
     height: 186px;
@@ -766,14 +766,14 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
     border:1px solid #55aeee;
 }
 
-/*---Смайлы---*/
+/*---пїЅпїЅпїЅпїЅпїЅпїЅ---*/
 .emoji {
     border: none;
     vertical-align: middle;
     width: 22px;
     height: 22px;
 }
-/* Настройка стандартной капчи при ответах на комментарии */
+/* пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ */
 .dle-captcha { position: relative; }
 .dle-captcha:after { clear: both; display: block; content: ""; }
 .dle-captcha > a { float: left; margin-right: 5px; }
@@ -786,7 +786,7 @@ pre code { display: block; padding: 0.5em; background: #f9fafa; border: 1px soli
 .dle-captcha > input { float: left; width: 130px; }
 
 
-/* Настройка подсказки для доп. полей */
+/* пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅ */
 .xfieldsnote {
   color: #838383;
   font-size: .9em;
