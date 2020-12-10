@@ -24,21 +24,15 @@
 
 </head>
 <body id="body"> 
-<!-- версия для слабовидящих -->
-
-
-
-
-<!-- /версия для слабовидящих -->
     
-<div id="loader"><div class="loader-body"><span></span></div></div>
+<div id="loader"><div class="loader-body"></div></div>
 <div id="wrapper">
 <!--Шапка-->
 	<div id="heaser-body">
 		<header id="header" class="fixed">
 			<div class="cnt clr">
 				<a class="logo" href="/"><img src="{THEME}/images/logo.png" alt="АНО ВО СЮА" title="Санкт-Петербургская юридическая академия"/></a>
-                <a class="visible" href="#" onclick="" alt="Версия для слабовидящих" title="Версия для слабовидящих"><i class="fa fa-eye"></i></a>
+                <a class="visible" id="specialButton" href="#" onclick="" alt="Версия для слабовидящих" title="Версия для слабовидящих"><i class="fa fa-eye"></i></a>
                 
 <!-- Верхнее меню-->  
                 {include file="menu.tpl"}
@@ -300,7 +294,7 @@
 	<i class="fa"><img src="{THEME}/images/qr.png" width=70px; height=70px></i> 
         <h4><a href="https://lk.ecp.spb.ru/user/declaration-organization/?inn=7811618418&category=7">QR-код – соответствие Стандартам безопасной деятельности</a></h4>
 </div>
-	</div>
+</div>
 </section>
 
 [/available]
@@ -322,9 +316,9 @@
            </div>
 			<a href="https://vk.com/club159942048" class="soc-1" target=_blank title="Наша группа вконтакте"><i class="fa fa-vk"></i></a>
 			<a href="https://www.instagram.com/ANOVOJURAC" class="soc-1" target=_blank><i class="fa fa-instagram"></i></a>
-			<a href="/sveden" class="soc-1" target=_blank title="Основные сведения"><i class="fa fa-info-circle"></i></a>
-            <a id="specialButton" href="#"><img src="https://lidrekon.ru/images/special.png" alt="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" /></a>
-         <br><br>
+			<a href="/sveden" class="soc-1" target=_blank title="Основные сведения"><i class="fa fa-info-circle"></i></a>       
+         <br>
+            <br>
           
         </div>     
     </footer>
