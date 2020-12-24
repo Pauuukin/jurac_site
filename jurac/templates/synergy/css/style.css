@@ -2655,6 +2655,11 @@ a.h-al {color:#ED664B;}
 }
 /* конец вывода новостей на главной странице*/
 /*Изменения в 11.3 версии движка */
+tr {
+  border: 1px solid #000;
+  box-sizing: border-box;
+  
+}
 .instagram-media, .twitter-tweet {display: inline-block !important;}
 .table {
     width: 100%;
