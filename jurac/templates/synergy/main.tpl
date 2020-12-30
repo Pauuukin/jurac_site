@@ -44,16 +44,11 @@
 {include file="slider.tpl"}
 <!-- О нас -->
 <section class="section about"> 
-	<!--<div class="cnt">
-		<div class="title center" data-animated="fadeIn">
-			<h3 class="title-1">Информация</h3>
-			<p class="title-descr">Новости/Объявления</p>
-		</div>
-	</div>-->[/available]
+	[/available]
 	
 	
     <div class="cnt clr">
-{info}
+
 [not-aviable=main]{content}[/not-aviable]
 [available=main]
 
@@ -107,7 +102,8 @@
 	{custom category="14" template="short_news" aviable="main" from="0" limit="3" cache="no"}
 </div>   
 <div class="title center" data-animated="fadeIn">
-	<a href="/science-events/"><h3 class="title-1">Конференции</h3></a>
+	<h3 class="title-1">Конференции</h3>
+	<a href="/science-events/"><p class="title-descr"><b>ВСЕ КОНФЕРЕНЦИИ</b></p></a>
 	{custom category="25" template="short_konf" available="main" from="0" limit="1" cache="no"}
 </div>
 <div class="title center" data-animated="fadeIn">
