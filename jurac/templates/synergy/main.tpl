@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta charset="utf-8">
 	<link rel="shortcut icon" href="{THEME}/images/favicon.ico">
-	<!--<link rel="stylesheet" href="{THEME}/css/reset.css"> Объединяес несколько HTTP запросов один, ниже строчка, которая объединяет все css
+	<!--<link rel="stylesheet" href="{THEME}/css/reset.css"> Объединяес несколько https запросов один, ниже строчка, которая объединяет все css
 	<link rel="stylesheet" href="{THEME}/css/style.css">
 	<link rel="stylesheet" href="{THEME}/css/loader.css">
 	<link rel="stylesheet" href="{THEME}/css/font-awesome.min.css">
@@ -77,17 +77,17 @@
     <div class="cnt clr" data-animated="fadeInUp">
 		<div class="col4">
 			<div class="pricing-table">			   		
-                <a href="http://jurac.ru/uploads/main/sved1.pdf" target="_blank" rel = "noopener"><img src="{THEME}/images/1-1-min.jpg" width=65% height=65%></a>
+                <a href="https://jurac.ru/uploads/main/sved1.pdf" target="_blank" rel = "noopener"><img src="{THEME}/images/1-1-min.jpg" width=65% height=65%></a>
             </div>
 		</div>
 		<div class="col4">
 			<div class="pricing-table current">
-              <a href="http://jurac.ru/uploads/main/sved2.pdf" target="_blank" rel = "noopener">  <img src="{THEME}/images/1-2-min.jpg" width=65% height=65%></a>
+              <a href="https://jurac.ru/uploads/main/sved2.pdf" target="_blank" rel = "noopener">  <img src="{THEME}/images/1-2-min.jpg" width=65% height=65%></a>
 			</div>
 		</div>
 		<div class="col4">
 			<div class="pricing-table">			    
-               <a href="http://jurac.ru/uploads/main/sved3.pdf" target="_blank" rel = "noopener"><img src="{THEME}/images/1-3-min.jpg" width=65% height=65%></a>
+               <a href="https://jurac.ru/uploads/main/sved3.pdf" target="_blank" rel = "noopener"><img src="{THEME}/images/1-3-min.jpg" width=65% height=65%></a>
 			</div>
 		</div>
 	</div>
@@ -184,10 +184,10 @@
 	</div>
 
 </section>
-<!-- Объявления --><center> 
+<!-- Объявления -->
 {banner_vide-nevskiy-r-n}
 {banner_auto-school} 
-</center>
+
 <section class="section service">
 	<div class="cnt clr">
 		<div class="service-image">
@@ -296,7 +296,7 @@
 	
     <footer id="footer" class="section dark">
 		<div class="cnt" data-animated="fadeIn">
-            <span class="none"><a href="http://gov.spb.ru/" target="_blank" title="Правительство Санкт-Петербурга">
+            <span class="none"><a href="https://gov.spb.ru/" target="_blank" title="Правительство Санкт-Петербурга">
                 <img src="{THEME}/images/53.png" alt="Правительство Санкт-Петербурга" />
             </a></span>   
 			<a href="/"><!--Логитп академии-->
@@ -320,7 +320,7 @@
 <script src="{THEME}/js/plugins.js"></script>
 <script src="{THEME}/js/scripts.js"></script>
 <script src="{THEME}/js/uhpv-full.min.js"></script>
-{{* <script src="//lidrekon.ru/slep/js/uhpv-full.min.js"></script> *}}
+
 <!--<script src="{THEME}/js/cookie/load.js"></script>-->
 {banner_code-video-body}
 {login}
