@@ -203,12 +203,3 @@ $(function() {
 	$('.quoteMessage').before('<div class="bbQuoteName"><b>Цитата</b></div>');
 });
 // версия для слабовидящих
-var 	uhe 	= 2,
-lng 	= 'ru',
-has 	= 0,
-imgs 	= 1,
-bg 	= 1,
-hwidth 	= 0,
-bgs 	= ['1','2'],
-fonts 	= ['19','21','23'];
-$(document).ready(function(){uhpv(has)});

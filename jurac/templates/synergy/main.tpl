@@ -3,6 +3,7 @@
 <head>
 {headers}
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta charset="utf-8">
 	<link rel="shortcut icon" href="{THEME}/images/favicon.ico">
 	<!--<link rel="stylesheet" href="{THEME}/css/reset.css"> Объединяес несколько HTTP запросов один, ниже строчка, которая объединяет все css
 	<link rel="stylesheet" href="{THEME}/css/style.css">
@@ -11,11 +12,9 @@
 	<link rel="stylesheet" href="{THEME}/css/animate.css">
 	<link rel="stylesheet" href="{THEME}/css/engine.css">-->
     <link rel="stylesheet" href="/engine/classes/min/index.php?f={THEME}/css/reset.css,{THEME}/css/style.css,{THEME}/css/loader.css,{THEME}/css/font-awesome.min.css,{THEME}/css/animate.css,{THEME}/css/engine.css" />
-    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400&subset=latin,cyrillic'>    
-   
     <!-- DLE UniForm -->
 	<link rel="stylesheet" href="/engine/classes/min/index.php?charset=utf-8&f={THEME}/uniform/css/uniform.css&114" />
-	<script src="/engine/classes/min/index.php?charset=utf-8&f={THEME}/uniform/js/jquery.magnificpopup.min.js,{THEME}/uniform/js/jquery.ladda.min.js,{THEME}/uniform/js/jquery.form.min.js,{THEME}/uniform/js/uniform.js&114,{THEME}/uniform/js/uhpv-full.min.js,{THEME}/uniform/js/uhpv-full_1.min.js,{THEME}/uniform/js/jquery.js"></script>
+	<script src="/engine/classes/min/index.php?charset=utf-8&f={THEME}/uniform/js/jquery.magnificpopup.min.js,{THEME}/uniform/js/jquery.ladda.min.js,{THEME}/uniform/js/jquery.form.min.js,{THEME}/uniform/js/uniform.js&114,{THEME}/uniform/js/jquery.js"></script>
 
     <!-- /DLE UniForm -->
     <!-- Код видео-плеера  (срок 30 дней) -->
@@ -75,7 +74,6 @@
 			<h3 class="title-1">Свидетельство о профессионально-общественной аккредитации</h3>
 		</div>
 	</div>
-
     <div class="cnt clr" data-animated="fadeInUp">
 		<div class="col4">
 			<div class="pricing-table">			   		
@@ -321,8 +319,8 @@
 <!-- Код VK_0530 -->     
 <script src="{THEME}/js/plugins.js"></script>
 <script src="{THEME}/js/scripts.js"></script>
-
-<script src="//lidrekon.ru/slep/js/uhpv-full.min.js"></script>
+<script src="{THEME}/js/uhpv-full.min.js"></script>
+{{* <script src="//lidrekon.ru/slep/js/uhpv-full.min.js"></script> *}}
 <!--<script src="{THEME}/js/cookie/load.js"></script>-->
 {banner_code-video-body}
 {login}

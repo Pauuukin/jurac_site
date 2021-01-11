@@ -2604,7 +2604,7 @@ a.h-al {color:#ED664B;}
 /* вывод новостей на главной странице*/
 .tl, .tr, .bl, .br 
 {    
-    background-image: url("../images/news-corner.gif");    
+        
     height: 10px;   
     font-size: 2px;   
 }
