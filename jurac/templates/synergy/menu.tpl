@@ -3,13 +3,13 @@
 					<div id="uNMenuDiv1" class="uMenuV">
 	<ul class="uMenuRoot">
 		<li class="uWithSubmenu">
-			<a href="/sveden"><span>Сведения об<br>образовательной<br>организации</span></a>
+			<a href="#"><span>Сведения об<br>образовательной<br>организации</span></a>
 			<ul>
 				<li><a href="https://jurac.ru/sveden/common" target="_blank"><span>Основные сведения</span></a></li>
                 <li><a href="https://jurac.ru/sveden/struct" target="_blank"><span>Структура и органы управления образовательной организацией</span></a></li>
 				<li><a href="https://jurac.ru/sveden/document" target="_blank"><span>Документы</span></a></li> 
 				<li><a href="https://jurac.ru/sveden/education" target="_blank"><span>Образование</span></a></li>  
-				<li><a href="https://jurac.ru/sveden/eduStandarts" target="_blank"><span>Образовательные стандарты</span></a></li>             																					
+				<li><a href="https://jurac.ru/sveden/edustandarts" target="_blank"><span>Образовательные стандарты</span></a></li>             																					
 				<li><a href="https://jurac.ru/sveden/employees" target="_blank"><span>Руководство.<br>Педагогический (научно-педагогический) состав</span></a></li>
 				<li><a href="https://jurac.ru/sveden/objects" target="_blank"><span>Материально-техническое обеспечение и оснащённость образовательного процесса</span></a></li>            
                 <li><a href="https://jurac.ru/sveden/grants" target="_blank"><span>Стипендии и иные виды материальной поддержки</span></a></li>

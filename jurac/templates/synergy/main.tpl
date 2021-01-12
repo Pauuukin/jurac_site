@@ -31,8 +31,9 @@
 		<header id="header" class="fixed">
 			<div class="cnt clr">
 				<a class="logo" href="/"><img src="{THEME}/images/logo.png" alt="АНО ВО СЮА" title="Санкт-Петербургская юридическая академия"/></a>
-                <a class="visible" id="specialButton" href="#" onclick="" alt="Версия для слабовидящих" title="Версия для слабовидящих"><i class="fa fa-eye"></i></a>
-                
+                <div itemprop="copy">
+					<a class="visible" id="specialButton" href="#" onclick="" alt="Версия для слабовидящих" title="Версия для слабовидящих"><i class="fa fa-eye"></i></a>
+                </div>
 <!-- Верхнее меню-->  
                 {include file="menu.tpl"}
 			</div>
