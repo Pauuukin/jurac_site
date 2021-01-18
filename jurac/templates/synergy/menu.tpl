@@ -3,7 +3,7 @@
 					<div id="uNMenuDiv1" class="uMenuV">
 	<ul class="uMenuRoot">
 		<li class="uWithSubmenu">
-			<a href="#"><span>Сведения об<br>образовательной<br>организации</span></a>
+			<a href="https://jurac.ru/sveden.html"><span>Сведения об<br>образовательной<br>организации</span></a>
 			<ul>
 				<li><a href="https://jurac.ru/sveden/common" target="_blank"><span>Основные сведения</span></a></li>
                 <li><a href="https://jurac.ru/sveden/struct" target="_blank"><span>Структура и органы управления образовательной организацией</span></a></li>
