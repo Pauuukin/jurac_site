@@ -21,7 +21,7 @@
 			<h4><a href= "/graduated.html">Выпускникам</a></h4>
 			<p><a href="/graduated.html">->Выпускники</a></p>
             <p><a href="/structure-tsentr-sodeystviya-trudoustroystvu-vypusknikov.html">->Центр содействия трудоустройству</a></p>
-            <p><a href="/sveden-trudoustroystvo-vipusk.html" target=_blank>->Сведения о трудоустройстве выпускников</a></p>
+           
 		</div>
 	<div class="icon-block col3 animated fadeInRight" data-animated="fadeInRight">
 			<i class="fa fa-book"></i>
