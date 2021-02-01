@@ -306,12 +306,12 @@
            <span class="none"> <a href="https://minobrnauki.gov.ru/" target="_blank" title="Министрерство науки и высшего образования Российской Федерации"><!--Министрерство образования и науки Российской Федерации-->
                 <img src="{THEME}/images/mob.png" alt="Министерство образования и науки Российской Федерации"/>
             </a></span>
-			 <div class="copyrights">Copyright &copy; 2017-2018. Санкт-Петербургская Юридическая Академия.<br>
+			 <div class="copyrights">Copyright &copy; 2017-2021. Санкт-Петербургская Юридическая Академия.<br>
            <a href="/studencheskiy-sovet.html" target="_blank">Студенческий совет СЮА</a>
            </div>
 			<a href="https://vk.com/club159942048" class="soc-1" target=_blank title="Наша группа вконтакте"><i class="fa fa-vk"></i></a>
 			<a href="https://www.instagram.com/ANOVOJURAC" class="soc-1" target=_blank><i class="fa fa-instagram"></i></a>
-			<a href="/sveden" class="soc-1" target=_blank title="Основные сведения"><i class="fa fa-info-circle"></i></a>       
+			<a href="/sveden.html" class="soc-1" target=_blank title="Основные сведения"><i class="fa fa-info-circle"></i></a>       
          <br>
             <br>
           
