@@ -52,10 +52,10 @@
                     <li><a href="/uchebno-metodicheskiy-otdel.html"><span>Учебно-методический отдел</span></a></li>
                     <li><a href="/otdel-nauchnoy-i-innovacionnoy-deyatelnosti.html"><span>Отдел научной и инновационной деятельности</span></a></li>
                     <li><a href="/informacionno-tehnicheskiy-otdel.html"><span>Информационно-технический отдел</span></a></li>
-                    <li><a href="/otdelenie-dopolnitelnogo-obrazovaniya.html"><span>Отделение дополнительного образования</span></a></li>
                     <li><a href="/science-aspirantura.html"><span>Отдел аспирантуры</span></a></li>
                </ul>
                </li>
+                <li><a href="/otdelenie-dopolnitelnogo-obrazovaniya.html"><span>Отделение дополнительного образования</span></a></li>
                 <li><a href="https://abiturient.jurac.ru/abitur"><span>Приёмная комиссия</span></a></li>
                 <li><a href="/structure-sluzhba-glavnogo-inzhenera.html"><span>Служба главного инженера</span></a></li>
                 <li><a href="/uploads/files/2017-12/polog_centr_proforit_2016.pdf" target="_blank"><span>Центр профориентационной деятельности и практической подготовки обучающихся</span></a></li>
