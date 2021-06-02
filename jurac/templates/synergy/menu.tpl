@@ -9,7 +9,7 @@
                         <li><a href="https://jurac.ru/sveden/struct" target="_blank"><span>Структура и органы управления образовательной организацией</span></a></li>
 			        	<li><a href="https://jurac.ru/sveden/document" target="_blank"><span>Документы</span></a></li> 
 			        	<li><a href="https://jurac.ru/sveden/education" target="_blank"><span>Образование</span></a></li>  
-			        	<li><a href="https://jurac.ru/sveden/edustandarts" target="_blank"><span>Образовательные стандарты</span></a></li>             																					
+			        	<li><a href="https://jurac.ru/sveden/edustandarts" target="_blank"><span>Образовательные стандарты и требования</span></a></li>             																					
 			        	<li><a href="https://jurac.ru/sveden/employees" target="_blank"><span>Руководство.<br>Педагогический (научно-педагогический) состав</span></a></li>
 			        	<li><a href="https://jurac.ru/sveden/objects" target="_blank"><span>Материально-техническое обеспечение и оснащённость образовательного процесса</span></a></li>            
                         <li><a href="https://jurac.ru/sveden/grants" target="_blank"><span>Стипендии и иные виды материальной поддержки</span></a></li>
@@ -70,8 +70,10 @@
                 <li class="uWithSubmenu"> <a  href="https://abiturient.jurac.ru/abitur" target="_blank"><span>Абитуриенту<br><pre> </pre></span></a>
                         <ul>
 		        		    <li><a href="https://abiturient.jurac.ru/abitur/bak" target="_blank"><span>Бакалавриат </span></a></li>
+                            <li><a href="https://abiturient.jurac.ru/abitur/spec" target="_blank"><span>Специалитет</span></a></li>
                             <li><a href="https://abiturient.jurac.ru/abitur/mag" target="_blank"><span>Магистратура </span></a></li>
                             <li><a href="https://abiturient.jurac.ru/abitur/asp" target="_blank"><span>Аспирантура</span></a></li>
+                            
                         </ul>
                     </li>
 
