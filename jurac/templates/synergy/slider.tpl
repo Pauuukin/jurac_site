@@ -2,7 +2,7 @@
 	<div id="slider">
 		<div class="slide" data-image="{THEME}/images/slider/slide-2.jpg">
 			<div class="slide-content">
-				<a href="https://abiturient.jurac.ru/abitur/" class="slide-title">Подать документы</a>	
+				<a href="https://abiturient.jurac.ru/regabitur/" class="slide-title">Подать документы</a>	
 				<br><br>
 			    
 				<span style="font-size: 15px; font-family: Verdana, Arial, Helvetica, sans-serif; color:white;">Приёмная комиссия тел.:<a href="tel:+78126770007" style="color:#FFAA00"> +7 (812) 677-00-07;</a> <a href="tel:+79219513433" style="color:#FFAA00">+7 (921) 951-34-33</a></span>
