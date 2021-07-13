@@ -60,7 +60,6 @@
                         <li><a href="/structure-sluzhba-glavnogo-inzhenera.html"><span>Служба главного инженера</span></a></li>
                         <li><a href="/uploads/files/2017-12/polog_centr_proforit_2016.pdf" target="_blank"><span>Центр профориентационной деятельности и практической подготовки обучающихся</span></a></li>
                         <li><a href="/structure-tsentr-sodeystviya-trudoustroystvu-vypusknikov.html"><span>Центр содействия трудоустройству выпускников</span></a></li>
-                        <li><a href="/structure-quality_central.html"><span>Центр управления качеством образовательной деятельности</span></a></li>
                         <li><a href="/structure-clinic.html"><span>Юридическая клиника</span></a></li>
 		        		<li><a href="/kabinet-zdorovya-dlya-veteranov.html"><span>Кабинет здоровья для ветеранов</span></a></li>
                         <li><a href="/structure-library.html"><span>Библиотека</span></a></li>
